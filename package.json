@@ -1,0 +1,29 @@
+{
+  "name": "openframe-cors-proxy",
+  "version": "1.0.0",
+  "description": "A CORS proxy to run on OpenFrame",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinkennedy/openframe-cors-proxy.git"
+  },
+  "keywords": [
+    "openframe",
+    "cors",
+    "proxy"
+  ],
+  "author": "Quin Kennedy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quinkennedy/openframe-cors-proxy/issues"
+  },
+  "homepage": "https://github.com/quinkennedy/openframe-cors-proxy#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.0",
+    "debug": "^2.2.0",
+    "openframe-extension": "^0.1.0"
+  }
+}
