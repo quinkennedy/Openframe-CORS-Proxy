@@ -15,7 +15,7 @@
     "cors",
     "proxy"
   ],
-  "author": "Quin Kennedy",
+  "author": "Quin Kennedy <npm@quinkennedy.com> (http://quinkennedy.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/quinkennedy/openframe-cors-proxy/issues"
