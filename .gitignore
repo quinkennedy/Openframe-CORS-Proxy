@@ -3,3 +3,6 @@ node_modules/
 
 # VIM swap files
 *.swp
+
+#key and cert files
+*.pem
